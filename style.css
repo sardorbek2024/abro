@@ -1,0 +1,32 @@
+.topnavbar{
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding: 10px 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar .box2{
+    text-decoration: none;
+}
+header a{
+    text-decoration: none;
+    color:black
+}
+.header {
+    background-image: url("./xcat_ss24_bts_hp_mh_lg_mw_d_686f50079a.avif");
+    padding: 200px 0;
+}
+.header p{
+    color:white;
+}
+.header h1{
+    color: white;
+    font-size: 35px;
+}
+.header a{
+    color: white;
+}
